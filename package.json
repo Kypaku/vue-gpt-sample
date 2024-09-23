@@ -10,15 +10,15 @@
   "dependencies": {
     "abort-controller": "^3.0.0",
     "autoprefixer": "^9.8.8",
-    "core-js": "^3.6.5",
-    "eventsource-parser": "^1.0.0",
-    "gpt-simple-api-ts": "^1.0.37",
+    "core-js": "^3.38.1",
+    "eventsource-parser": "^1.1.2",
+    "gpt-simple-api-ts": "^1.0.46",
     "local-storage": "^2.0.0",
     "openai": "^3.3.0",
-    "postcss": "^8",
+    "postcss": "^8.4.44",
     "request": "^2.88.2",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17",
-    "vue": "^3.0.0"
+    "tailwindcss": "2.2.19",
+    "vue": "^3.4.38"
   },
   "devDependencies": {
     "@types/lodash": "^4.14.191",
